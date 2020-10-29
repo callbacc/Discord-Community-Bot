@@ -1,5 +1,8 @@
 import { Client } from "discord.js";
+import("dotenv").config();
 
 const client = new Client();
 
-client.config = require("./Config.js");
+client.con = import("../connection/connection.js");
+
+console.log(con)
