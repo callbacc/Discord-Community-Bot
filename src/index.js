@@ -1,1 +1,1 @@
-require("./core/Core.js")
+import("./core/Core.js");
