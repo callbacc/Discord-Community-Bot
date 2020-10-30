@@ -1,5 +1,4 @@
 node_modules/
 package-lock.json
-src/core/config.js
 src/Storage/config.json
 .env
