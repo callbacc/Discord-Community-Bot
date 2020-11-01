@@ -1,4 +1,5 @@
-node_modules/
-package-lock.json
-src/Storage/*
-.env 
+node_modules/*
+config.json
+.env
+logs/*.log
+data/
